@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | UI/UX Enthusiast | Passionate about Building Web Experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Creative+Frontend+Developer;CSS+Framework+Builder;React+%7C+JavaScript+%7C+Tailwind+Lover;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Creative+Frontend+Developer;CSS+Framework+Builder;React+JavaScript+Tailwind+Lover;Open+Source+Contributor" />
 </p>
 
 ---
