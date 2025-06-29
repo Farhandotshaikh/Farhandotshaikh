@@ -20,7 +20,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,scss,bootstrap,nodejs,git,github,figma,vscode,wordpress,shopify,vite,mysql,netlify,vercel,jquery,npm,windicss&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,scss,bootstrap,nodejs,git,github,figma,vscode,wordpress,vite,mysql,netlify,vercel,jquery,npm,windicss&perline=10" />
 </p>
 
 ---
