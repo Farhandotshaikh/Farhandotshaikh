@@ -30,7 +30,7 @@
 Here are some highlights from my GitHub:
 
 - 💡 [**Elementus**](https://github.com/Farhandotshaikh/Elementus) — Lightweight CSS framework with utility-first design + responsive UI components.
-- 🎯 [**Portfolio Website**](https://Farhandotshaikh.framer.website) — Personal developer portfolio built with modern UI.
+- 🎯 [**Portfolio Website**](https://mohammadfarhan.vercel.app) — Personal developer portfolio built with modern UI.
 
 <div align="center">
   
